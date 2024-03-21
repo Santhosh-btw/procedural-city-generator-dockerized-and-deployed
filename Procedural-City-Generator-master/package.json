@@ -1,0 +1,13 @@
+{
+    "name": "procedural-city-generator",
+    "version": "1.0.0",
+    "description": "A procedural city generator application",
+    "main": "index.html",
+    "scripts": {
+      "start": "node procedural.city.generator.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
